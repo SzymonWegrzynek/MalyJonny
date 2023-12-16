@@ -27,3 +27,7 @@ if len(sys.argv) == 4:
     zlam_hash(hash_format, wordlist, hash_1)
 else:
     print("Za mało argumentów.")
+
+
+# aby uruchomić kod
+# python dokonczony_kod.py md5 wordlist.txt 5f4dcc3b5aa765d61d8327deb882cf99
